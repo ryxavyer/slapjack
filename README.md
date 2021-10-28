@@ -1,2 +1,2 @@
-# offers
-Automatically filters emails from a gmail account for hiring process keywords allowing you to keep track of the status of your job applications with ease.
+# slapjack using Deck of Cards API (https://deckofcardsapi.com/)
+Play slapjack with your friends
