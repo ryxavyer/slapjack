@@ -1,0 +1,21 @@
+{
+  "name": "slapjack",
+  "version": "1.0.0",
+  "description": "Play slapjack with your friends",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-ryxavyer:ryxavyer/slapjack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "socket.io": "^4.3.1"
+  }
+}
